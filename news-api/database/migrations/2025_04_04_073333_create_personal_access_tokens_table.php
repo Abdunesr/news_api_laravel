@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
 {
+    //fSPu30S2lJ6tx4jY
     /**
      * Run the migrations.
      */
